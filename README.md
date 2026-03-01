@@ -1,0 +1,2 @@
+# nofun
+NoFun repository
